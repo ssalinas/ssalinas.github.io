@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Puppy</h2>
-  <p class="post-excerpt">The best way to take a brak from coding, my puppy!</p>
+  <p class="post-excerpt">The best way to take a break from coding, my puppy!</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
