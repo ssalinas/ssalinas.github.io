@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  excerpt: "A bit about me and my experince"
+  image: stephen.jpg
+
+- title: Blog
+  url: /blog/
+  excerpt: "I like to think about things, do you?"
+  image: code.jpg
+
+- title: Puppy
+  url: /puppy/
+  excerpt: "Can't be all business here, lets have some puppy fun too!"
+  image: oliver-sunglasses.jpg
