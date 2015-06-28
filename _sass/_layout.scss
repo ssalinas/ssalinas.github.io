@@ -205,9 +205,7 @@
 	background-attachment: fixed;
 	text-align: center;
 	color: $white;
-	@include media($large) {
-		background-size: cover;
-	}
+	background-size: cover;
 }
 .page-lead-content {
 	padding: 1em;
