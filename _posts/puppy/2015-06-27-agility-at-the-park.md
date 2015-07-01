@@ -10,8 +10,4 @@ image:
   teaser: agility.jpg
 ---
 
-Still need to write some stuff here
-
-### Agiltiy
-
-Yay for Puppy!
+Flying Puppy!!!!

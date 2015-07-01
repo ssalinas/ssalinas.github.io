@@ -8,6 +8,7 @@
 
 #masthead {
 	padding: $gutter;
+	padding-bottom: 0;
 	z-index: 5;
 	@include transform(translate(0,0));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
@@ -42,6 +43,7 @@
 .menu {
 	li {
 		float: left;
+		margin-bottom: 0;
 		&:last-child a {
 			@include media($medium) {
 				margin-right: 0; // remove spacing from last menu link
@@ -52,7 +54,7 @@
 			position: relative;
 			display: block;
 			margin-right: $gutter;
-			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
+			padding: (.25 * $masthead-height) 0 (.1 * $masthead-height) ;
 			height: $masthead-height;
 			font-family: $alt-font;
 			&:before,
